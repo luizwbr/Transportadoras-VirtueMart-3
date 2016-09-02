@@ -2,7 +2,7 @@
 Plugin de envio - Transportadoras VirtueMart 3
 
 Tutorial de utilização aqui:
-http://virtuemartpro.com.br/tutoriais/entry/configurando-tabelas-de-frete-no-virtuemart-2-braspress-pacer-tnt.html
+http://virtuemartpro.com.br/index.php?option=com_easyblog&view=entry&id=3613
 
 =========================
 Suporte:
