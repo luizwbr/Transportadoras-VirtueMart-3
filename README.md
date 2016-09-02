@@ -25,7 +25,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 Dúvidas?
 ----------
 
-Em caso de dúvidas acesse o site http://virtuemartbrasil.com.br.
+Em caso de dúvidas acesse o site http://virtuemartpro.com.br.
 
 Contato
 ----------
