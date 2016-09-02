@@ -1,6 +1,8 @@
 # Transportadoras-VirtueMart-3
 Plugin de envio - Transportadoras VirtueMart 3
-Virtuemart 3.x / Joomla 3.x
+* Virtuemart 3.x / Joomla 3.x
+ 
+Este plugin permite que você cadastre tarifas de frete personalizadas ( tabelas de frete ), usando os métodos de envio do VM. Mas nem todas as transportadoras podem ser cadastradas, já que o plugin tem uma limitação de 4 tipos de tarifas de cálculo.
 
 Tutorial
 -------
